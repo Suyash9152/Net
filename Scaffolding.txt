@@ -1,0 +1,1 @@
+Scaffold-DbContext "whole Connection String" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
